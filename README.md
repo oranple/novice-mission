@@ -28,10 +28,10 @@
   Sep-08-2018  
 
 * 在Linux(Ubuntu)上安裝Ruby & Rails環境  
-  not yet  
+  Sep-11-2018  
 
 * 完成Ruby的“Hello World”初體驗  
-  not yet  
+  Sep-11-2018  
 
 ### 支線  
 
